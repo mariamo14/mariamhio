@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Osman</h1>
-<h3 align="center">A Passionate Software Engineer, Student at Oxford University, Mom</h3>
+<h3 align="center">A Passionate Software Engineer, Student at Oxford University</h3>
 
 - 📫 How to reach me **mariamhiosman@gmail.com**
 
